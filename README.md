@@ -6,9 +6,9 @@ I specialize in helping companies navigate and implement the Kubernetes ecosyste
 
 I’m here to provide practical solutions that drive efficiency and reliability in your software delivery process.
 
-Got questions or challenges? I provide a casual "Architecture/Infrastructure Coffee Chat" ☕ (check my [calendly][calendly_link]) —a space to discuss your architecture, infrastructure, or Kubernetes-related ideas. 
+I provide a casual "Architecture/Infrastructure Coffee Chat" ☕ (check my [calendly][calendly_link]) —a space to discuss your architecture, infrastructure, or Kubernetes-related ideas. 
 
-📧 If you have a question, need some guidance or consulting, send me an email at maxime.vidori@gmail.com
+📧 Got questions or challenges? You need some guidance or consulting? send me an email at maxime.vidori@gmail.com
 
 Feel free to reach out and let’s have a chat! 
 
